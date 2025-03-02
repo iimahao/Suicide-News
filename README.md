@@ -1,2 +1,6 @@
 # Suicide_News
-collect, identify, report  suicide news that is too detail
+根據...過於詳細的自殺報導，會引起模仿效應。
+台灣在2023年通過自殺防治法，參照WHO的媒體報導6不6要，禁止過於詳細的自殺新聞。
+本專案旨在透過自動化方式，減少會引起模仿的自殺新聞。
+具體流程包含:
+收集資料 -> 判斷內容 -> 人工檢查 -> 檢舉
